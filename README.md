@@ -1,3 +1,0 @@
-# FYNintro
-
-Packages:
