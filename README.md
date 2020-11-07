@@ -1,5 +1,5 @@
 # FYNintro
-Tela de introdução ao Fynn app, aparece aparenas para novos usuários.
+Tela de introdução ao Fynn app, aparece apenas para novos usuários.
 
 Contém 13 telas
 Tempo de trabalho: 12horas.
