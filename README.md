@@ -20,4 +20,5 @@ https://ionicframework.com/docs/api/slides
 
 Ionic Storage
 https://ionicframework.com/docs/angular/storage
+
 "ionic cordova plugin add cordova-sqlite-storage"
