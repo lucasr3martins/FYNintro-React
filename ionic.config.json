@@ -1,0 +1,7 @@
+{
+  "name": "ionslide",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

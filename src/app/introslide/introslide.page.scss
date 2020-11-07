@@ -1,0 +1,110 @@
+
+ion-content {
+    --ion-background-color: #8f2828;
+    height: 100%;
+    }
+  .t2 {
+    margin-top: 0 auto;
+  }
+  
+  .strong {
+    font-size: 20px;
+    line-height: 26px;
+  }
+  .h1 {
+    color: #ffffff;
+      text-shadow: 4px 3px 2px rgba(60, 60, 60, 0.77);
+    margin:0;
+    margin-top:2%;
+  }
+  .h1-2 {
+    color: #ffffff;
+      text-shadow: 4px 3px 2px rgba(80, 80, 80, 0.77);
+    margin:0;
+    font-size: 50px;
+    margin-top:0;
+  }
+  .h2 {
+    margin-top: 0;
+    margin-bottom: 5%;
+    color: #ffffff;
+    text-shadow: 4px 3px 2px rgba(60, 60, 60, 0.77);
+  }
+  .h2-2 {
+    margin-top: 20px;
+    margin-bottom: 5%;
+    margin:30px;
+    color: #ffffffef;
+    text-shadow: 4px 3px 2px rgba(60, 60, 60, 0.77);
+  }
+  .p {
+    font-size: 16px;
+    line-height: 22px;
+    text-shadow: 4px 3px 2px rgba(60, 60, 60, 0.77);
+    color: #e2e2e2;
+    margin: 0;
+  }
+  
+  .a {
+    text-decoration: none;
+  }
+  
+  .span {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 9%;
+    text-align:left;
+    width: 100%;
+    margin: 0 auto;
+    margin-left:10%;
+    color: rgba(255, 255, 255, 0.897);
+    text-shadow: 4px 4px 2px rgba(25, 25, 25, 0.77);
+  }
+  
+  .spantp {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 8%;
+    width: 100%;
+    margin: 0 auto;
+    color: rgba(255, 255, 255, 0.897);
+    text-shadow: 4px 4px 2px rgba(25, 25, 25, 0.77);
+  }
+  
+  .button {
+    position: absolute;
+    right: 0;
+    bottom: 10%;
+    text-align: right;
+    margin: 0 auto;
+    margin-right: 10%;
+    --background: #fff;
+    color: rgb(71, 67, 67);
+    text-shadow: 4px 4px 2px rgba(25, 25, 25, 0.77);
+  }
+  
+  ion-buttom {
+    --border-radius: 100%;
+    --background: 
+  }
+  ion-slides {
+    height: 100vh;
+    flex-direction: column;
+    text-align: justify;
+    --bullet-background-active: #fff;
+  }
+  img{
+    max-width:50vw !important;
+    max-height: 50vw !important;
+    overflow:hidden;
+  }
+  ion-icon {
+    color: #000;
+  }
+
+  .chat2{
+    max-width:70vw !important;
+    max-height: 70vw !important;
+  }
